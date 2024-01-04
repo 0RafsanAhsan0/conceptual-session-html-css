@@ -31,13 +31,19 @@
     text-align: justify;
     color: rgb(255, 255, 255);
 }
-.sec-2 h4{
+.sec-2 h4, .types{
     text-align: center;
     padding-bottom: 20px;
     text-decoration: underline;
     font-size: 50px;
+    color: rgb(0, 0, 0);
 }
 .sec-2 p{
     word-spacing: 3px;
     font-size: larger ;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }
